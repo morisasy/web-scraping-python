@@ -2,6 +2,13 @@
 # Web Scraping With Python
 
 
+```
+ Ensure that you have both beautifulsoup and requests installed:
+
+
+```
+
+
 ### pip install beautifulsoup4
 ### pip install lxml
 ### pip install requests
