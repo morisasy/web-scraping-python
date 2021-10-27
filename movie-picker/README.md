@@ -1,12 +1,11 @@
 
-# Web Scraping With Python
+# Web Scraping Movie Picker
 
 
 ```
- Ensure that you have both beautifulsoup and requests installed:
+Make sure you have both Beautifulsoup and requests installed:
 
- Learn how to use requests and BeautifulSoup to scrape websites
-
+Scrape the IMDb Top 250 movies  
 
 ```
 
